@@ -12,7 +12,7 @@ async function selectMediaStream(){
 
     }catch(error){
         // catch error here
-        console.log('Error her bro', error);
+        console.log('Error here bro', error);
     }
 }
 
